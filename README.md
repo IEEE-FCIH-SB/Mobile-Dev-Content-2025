@@ -11,7 +11,7 @@ Welcome to the **Mobile Development with Flutter Content 2025** repository! 🚀
 
 | 📌 **Session Title** | 🏷️ **Tags** | 📜 **Slides** | 💻 **Code** | 🎯 **Task** |
 |-----------------|---------|----------|--------|--------|
-| **Session 1:** Intro to dart | `intro to dart`, `Dart basics` | [Slides]([#](https://docs.google.com/presentation/d/1UEsx6bWSjcHHrV_QbNVNEO-RCoK0piW1/edit?slide=id.p1#slide=id.p1)) | [Code] | [Task] |
+| **Session 1:** Intro to dart | `intro to dart`, `Dart basics` | [Slides]([(https://docs.google.com/presentation/d/1UEsx6bWSjcHHrV_QbNVNEO-RCoK0piW1/edit?slide=id.p1#slide=id.p1)]) | [Code] | [Task] |
 | **Session 2:**  | `input in dart`, `control flow`, `Errors`, `Functions`| [Slides]([#]([https://docs.google.com/presentation/d/1UEsx6bWSjcHHrV_QbNVNEO-RCoK0piW1/edit?slide=id.p1#slide=id.p1](https://docs.google.com/presentation/d/1EzGGWnxY72z8-23EM9U4150azWpfsHFp/edit?slide=id.p1#slide=id.p1)))| [Code]([#]([https://docs.google.com/presentation/d/1UEsx6bWSjcHHrV_QbNVNEO-RCoK0piW1/edit?slide=id.p1#slide=id.p1](https://drive.google.com/drive/folders/1QyeouwUy5dWbaVKrId4uxNPUh2nQaKTI))) | [Task]([#]([https://docs.google.com/presentation/d/1UEsx6bWSjcHHrV_QbNVNEO-RCoK0piW1/edit?slide=id.p1#slide=id.p1](https://drive.google.com/drive/folders/1SRAmfA39Y_WCeubAIV2YixFbTsPR7vDX)))|  
 
 🔹 **More sessions will be added soon! Stay tuned!**  
