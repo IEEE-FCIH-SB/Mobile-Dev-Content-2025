@@ -20,7 +20,7 @@ Welcome to the **Mobile Development with Flutter Content 2025** repository! 🚀
 | **Session 7:**  | | [Slides](./Session%207/Slides)|[Code](./Session%207/Code) | [Task](./Session%207/Task)|
 | **Session 8:**  | | [Slides](./Session%208/Slides)|`-`| [Task](./Session%208/Task)|
 | **Session 9:**  || [Slides](./Session%209/Slides)|[Code](./Session%209/Code) | [Task](./Session%209/Task)|
-| **Session 9:**  || [Slides](./Session%2010/Slides)|[Code](./Session%2010/Code) | [Task](./Session%2010/Task)|
+| **Session 10:**  || [Slides](./Session%2010/Slides)|[Code](./Session%2010/Code) | [Task](./Session%2010/Task)|
 
 🔹 **More sessions will be added soon! Stay tuned!**  
 
