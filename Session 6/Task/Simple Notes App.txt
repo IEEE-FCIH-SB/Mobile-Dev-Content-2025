@@ -1,0 +1,1 @@
+Design a simple Notes app UI that displays a centered title, a vertical list of note items with brief content, and a footer showing additional info like the total number of notes or an add note label.
