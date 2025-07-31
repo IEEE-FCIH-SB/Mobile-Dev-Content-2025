@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
 import 'package:notesapp2/appbar.dart';
 import 'package:notesapp2/form.dart';
-import 'package:notesapp2/state.dart';
 
 void main() async {
   await Hive.initFlutter();
