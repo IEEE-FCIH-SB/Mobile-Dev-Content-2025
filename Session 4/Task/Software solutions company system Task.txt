@@ -1,0 +1,59 @@
+ Build a console-based Software Solutions Company System in Dart. The system should include the following methods and roles:
+
+Methods:
+Add Methods:
+
+Add a new employee.
+
+Add a new client.
+
+Add a new service.
+
+Add a new software project.
+
+Update Methods:
+
+Update employee details.
+
+Update client information.
+
+Update service details.
+
+Update software project details.
+
+Delete Methods:
+
+Remove an employee.
+
+Remove a client.
+
+Remove a service.
+
+Remove a software project.
+
+View Methods:
+
+View all employees.
+
+View all clients.
+
+View all services.
+
+View all software projects.
+
+Roles:
+Employees:
+
+Manage employee information (e.g., name, ID, role).
+
+Clients:
+
+Manage client information (e.g., company name, contact details).
+
+Services:
+
+Manage services offered by the company (e.g., name, description, price).
+
+Software Projects:
+
+Manage software projects (e.g., project name, client, assigned employees).
