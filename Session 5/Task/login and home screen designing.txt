@@ -1,0 +1,2 @@
+You are required to style the login screen that you started during the session and design a new home screen using Figma. After completing both designs, you will refactor them into FlutterFlow, maintaining the same design principles.
+
