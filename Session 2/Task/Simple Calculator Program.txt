@@ -1,0 +1,15 @@
+Task Details(Simple Calculator Program):
+
+Build a simple calculator program that supports four basic mathematical operations:
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+
+Requirements:
+1.The program should prompt the user to enter two numbers.
+2.The user should choose an operation (addition, subtraction, multiplication, or division).
+3.The program should perform the chosen operation and display the result.
+4.If the user tries to divide by zero, the program should display an error message.
+5.The program should handle invalid inputs (e.g., entering text instead of numbers).
+6.(Optional) The program can run in a loop, allowing multiple calculations until the user decides to exit.
