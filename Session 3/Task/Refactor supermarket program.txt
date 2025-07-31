@@ -1,0 +1,23 @@
+Refactor the existing supermarket program in Dart to allow users to manage the inventory dynamically through console-based user input. The program should allow users to add, update, remove, and view items in the inventory instead of relying on a predefined list.
+
+Requirements:
+1. User Interaction for Inventory Management
+Implement a menu-driven system where users can choose from the following options:
+  Add a new item → Enter product name, price, and quantity.
+  Update an existing item → Modify the price or quantity of an item.
+  Remove an item → Delete an item from the inventory.
+  Display inventory → Show all items with their details.
+Exit the program.
+2. Data Storage & Management
+  Use a Map or List to store inventory items. Each item should include:
+     Name (unique identifier).
+     Price (double).
+     Quantity (integer).
+Ensure each product is uniquely identified and prevent duplicate entries.
+3. Validation & Error Handling
+   Ensure valid input (e.g., non-negative price and quantity).
+   Prevent adding duplicate names unless updating an existing product.
+   Handle cases where users attempt to update or remove non-existing items.
+   Provide clear error messages when invalid operations are performed.
+4. Persistent Inventory (Optional)
+Implement file handling (file management) to save and load inventory data between program runs.
