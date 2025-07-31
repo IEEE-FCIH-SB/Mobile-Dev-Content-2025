@@ -12,7 +12,15 @@ Welcome to the **Mobile Development with Flutter Content 2025** repository! 🚀
 | 📌 **Session Title** | 🏷️ **Tags** | 📜 **Slides** | 💻 **Code** | 🎯 **Task** |
 |-----------------|---------|----------|--------|--------|
 | **Session 1:** Intro to dart | `intro to dart`, `Dart basics` |[Slides](./Session%201/Slides)|
-| **Session 2:**  | `input in dart`, `control flow`, `Errors`, `Functions`| [Slides](./Session%202/Slides)|[Code](./Session%202/Code) | [Task](./Session%202/Task)|  
+| **Session 2:**  | `input in dart`, `control flow`, `Errors`, `Functions`| [Slides](./Session%202/Slides)|[Code](./Session%202/code) | [Task](./Session%202/Task)| 
+| **Session 3:**  | | [Slides](./Session%203/Slides)|[Code](./Session%203/code) | [Task](./Session%203/Task)|
+| **Session 4:**  | | [Slides](./Session%204/Slides)|[Code](./Session%204/code) | [Task](./Session%204/Task)|
+| **Session 5:**  | | [Slides](./Session%205/Slides)|'-'| [Task](./Session%205/Task)|
+| **Session 6:**  | | [Slides](./Session%206/Slides)|'-'| [Task](./Session%206/Task)|
+| **Session 7:**  | | [Slides](./Session%207/Slides)|[Code](./Session%207/code) | [Task](./Session%207/Task)|
+| **Session 8:**  | | [Slides](./Session%208/Slides)|'-' | [Task](./Session%208/Task)|
+| **Session 9:**  || [Slides](./Session%209/Slides)|[Code](./Session%209/code) | [Task](./Session%209/Task)|
+| **Session 9:**  || [Slides](./Session%2010/Slides)|[Code](./Session%2010/code) | [Task](./Session%2010/Task)|
 
 🔹 **More sessions will be added soon! Stay tuned!**  
 
